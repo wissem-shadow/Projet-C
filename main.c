@@ -1,1 +1,2 @@
-update main ;
+update main,
+insert main ;
